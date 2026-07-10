@@ -71,6 +71,8 @@ Get Store IDs from [dbox.tools](https://dbox.tools) by searching for your game.
 |------|--------|-------|
 | Forza Horizon 5 | Working | All DLCs including unlisted promo cars |
 | Vampire Survivors | Working | All DLCs |
+| DOOM: The Dark Ages | Working | All DLCs |
+| Forza Horizon 6 | Working | All DLCs |
 
 ## Building From Source
 
